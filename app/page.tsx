@@ -1,5 +1,4 @@
 import { Hero } from "@/components/hero";
-import { Journal } from "@/components/journal";
 import { GreatTree } from "@/components/great-tree";
 import { Discoveries } from "@/components/discoveries";
 import { ForestMap } from "@/components/forest-map";
